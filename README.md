@@ -8,3 +8,5 @@ An interactive detective story designed as a visual novel. The player is immerse
 
 ![Welcome](img/1.png)
 ![Chapter](img/2.png)
+![Chapter](img/3.png)
+![Chapter](img/4.png)
